@@ -1,0 +1,7 @@
+
+#screen{
+    margin: 30px auto;
+    width: 80%;
+    display: grid;
+grid-template-columns: auto auto auto;    
+}
